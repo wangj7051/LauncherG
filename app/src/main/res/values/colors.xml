@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Word-->
+    <color name="color_word">@android:color/white</color>
+    <color name="color_item_selected">@color/white_20percent</color>
+</resources>

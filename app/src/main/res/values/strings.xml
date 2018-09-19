@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">LauncherG</string>
+
+    <!-- Fill String -->
+    <string name="img_desc">NO IMAGE</string>
+    <string name="title">Title</string>
+    <string name="tips">Tips</string>
+    <string name="fill_item">Item</string>
+    <string name="fill_launcher">Launcher</string>
+    <string name="fill_prefix">98765432</string>
+    <string name="fill_call_time">000:00:00</string>
+
+    <!--Toast-->
+    <string name="toast_set_completed">Set completed</string>
+    <string name="toast_set_invalid_input">Invalid inputs</string>
+
+    <!--Dialog-->
+    <string name="dialog_msg_save">Save?</string>
+    <string name="yes_upper">YES</string>
+    <string name="no_upper">NO</string>
+
+    <!-- Main Activity -->
+    <string name="tips_no_sim">No SIM card</string>
+    <string name="tips_missed_call" formatted="false">Missed call: %s</string>
+    <string name="tips_voicemail" formatted="false">Voicemail: %s</string>
+
+    <!-- Menu Activity -->
+    <string name="menu">Menu</string>
+    <string name="contacts">Contacts</string>
+    <string name="voicemail">Voicemail</string>
+    <string name="phone">Phone</string>
+    <string name="security">Security</string>
+    <string name="network">Network</string>
+    <string name="sound">Sound</string>
+    <string name="display">Display</string>
+    <string name="date_time">Date &amp; Time</string>
+    <string name="system">System</string>
+    <string name="profile">Profile</string>
+
+    <!--Menu-Phone-->
+    <string name="send_caller_id">Send Caller ID</string>
+    <string name="total_call_time">Total call time</string>
+    <string name="prefix">Prefix</string>
+
+    <string name="total_time_reset_tips">[消し去る]Reset</string>
+    <string name="prefix_onoff">ON/OFF</string>
+    <string name="prefix_num">Prefix Number</string>
+
+    <!--Menu-Security-->
+    <string name="security_code">Security code</string>
+    <string name="reset">Reset</string>
+
+    <!--Menu-Network-->
+    <string name="flight_mode">Flight mode</string>
+    <string name="status">status</string>
+    <string name="operators">Operators</string>
+    <string name="network_apns">APNs</string>
+    <string name="tethering">Tethering</string>
+
+    <!--Menu-Sound-->
+    <string name="sound_ringtones">Ringtones</string>
+    <string name="sound_ringtone_vol">Ringtone volume</string>
+    <string name="sound_incall_vol">In-call volume</string>
+    <string name="sound_speaker_vol">Speaker volume</string>
+    <string name="sound_keytouch_tone">Keytouch tone</string>
+
+    <!--Menu-Date and time-->
+    <string name="date_ntime_set">Set date&amp;time</string>
+    <string name="date_ntime_hour_format">Hour format</string>
+    <string name="date_ntime_auto">Auto set</string>
+
+    <!--Menu-Display-->
+    <string name="screen_timeout">Screen timeout</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="font_size">Font size</string>
+    <string name="language">Language</string>
+    <string name="on_screen_id">On-screen ID</string>
+
+    <string name="screen_timeout_tips1">Range:0,10&#8211;60sec</string>
+    <string name="screen_timeout_tips2">(0:Always ON)</string>
+    <string name="screen_timeout_default">00</string>
+    <string name="sec">Sec</string>
+
+    <string name="large">Large</string>
+    <string name="middle">Middle</string>
+    <string name="small">Small</string>
+    <string name="very_small">Very small</string>
+
+    <string name="language_ja">日本語</string>
+    <string name="language_en">English</string>
+
+    <string name="on_upper">ON</string>
+    <string name="off_upper">OFF</string>
+
+    <!--Menu-System-->
+    <string name="sys_version">System version</string>
+    <string name="sys_updates">System updates</string>
+    <string name="sys_licenses">Licenses</string>
+
+    <!--Menu-Profile-->
+    <string name="caller_id">Caller ID</string>
+
+</resources>
